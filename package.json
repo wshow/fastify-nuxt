@@ -1,13 +1,21 @@
 {
   "name": "fastify-nuxt",
-  "version": "0.0.3",
-  "description": "FastifyJS plugin work with NuxtJS",
+  "version": "1.0.10",
+  "description": "VueJS server side rendering support for Fastify with NuxtJS",
   "repository": {
     "url": "https://github.com/lyquocnam/fastify-nuxt.git"
   },
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --watch index.js --watch example.js --exec node example.js"
+  },
   "dependencies": {
+    "fastify": "^0.30.3",
+    "fastify-plugin": "^0.1.1",
     "nuxt": "^1.0.0-rc11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
   }
 }
