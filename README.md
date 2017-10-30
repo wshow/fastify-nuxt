@@ -1,7 +1,6 @@
 # fastify-nuxt
 [FastifyJS](https://www.fastify.io/) plugin work with [NuxtJS](https://nuxtjs.org/)
-[![NPM version](https://img.shields.io/npm/v/fastify.svg?style=flat)](https://www.npmjs.com/package/fastify-nuxt)
-[![NPM downloads](https://img.shields.io/npm/dm/fastify.svg?style=flat)](https://www.npmjs.com/package/fastify-nuxt) [![Gitter]
+
 ## install
 ```bash
 npm install fastify-nuxt --save
