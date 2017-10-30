@@ -1,0 +1,13 @@
+{
+  "name": "fastify-nuxt",
+  "version": "0.0.2",
+  "description": "FastifyJS + nuxtJS",
+  "repository": {
+    "url": "https://github.com/lyquocnam/fastify-nuxt.git"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^1.0.0-rc11"
+  }
+}
