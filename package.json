@@ -1,7 +1,7 @@
 {
   "name": "fastify-nuxt",
-  "version": "0.0.2",
-  "description": "FastifyJS + nuxtJS",
+  "version": "0.0.3",
+  "description": "FastifyJS plugin work with NuxtJS",
   "repository": {
     "url": "https://github.com/lyquocnam/fastify-nuxt.git"
   },
