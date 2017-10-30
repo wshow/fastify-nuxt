@@ -1,6 +1,6 @@
 {
   "name": "fastify-nuxt",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "VueJS server side rendering support for Fastify with NuxtJS",
   "repository": {
     "url": "https://github.com/lyquocnam/fastify-nuxt.git"
