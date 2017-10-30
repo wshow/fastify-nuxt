@@ -2,3 +2,4 @@ node_modules
 *.lock
 .vscode
 .idea
+.nuxt
