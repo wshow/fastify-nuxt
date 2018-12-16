@@ -9,7 +9,7 @@ function nuxtPlugin (fastify, options, next) {
 
     if (dev) {
         new Builder(nuxt).build()
-        .then(next)
+        .then(()=>next())
         .catch((error) => {
             console.error(error)
             process.exit(1)
